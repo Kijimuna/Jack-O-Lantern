@@ -1,4 +1,4 @@
 Arduino Jack-O-Lantern
 ======================
 
-![Alt text](/doc/fritzing.jpg "Fritzing")
+![Fritzing](/doc/fritzing.png?raw=true)

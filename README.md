@@ -9,3 +9,7 @@ Arduino Jack-O-Lantern
 
 see  ![sketch/pumpkin_ultrasonic.ino](sketch/pumpkin_ultrasonic.ino)
 
+## Pumpkin in action
+
+see ![here](http://www.youtube.com/watch?v=KduDpjfR2xE)
+

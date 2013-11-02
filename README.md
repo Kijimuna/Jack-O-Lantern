@@ -11,5 +11,6 @@ see  ![sketch/pumpkin_ultrasonic.ino](sketch/pumpkin_ultrasonic.ino)
 
 ## Pumpkin in action
 
-see [here](http://www.youtube.com/watch?v=KduDpjfR2xE)
+[![youtube](http://img.youtube.com/vi/KduDpjfR2xE/0.jpg)](http://www.youtube.com/watch?v=KduDpjfR2xE)
+
 
